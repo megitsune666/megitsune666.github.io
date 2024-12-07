@@ -3,15 +3,31 @@ body {
   font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,"游ゴシック",YuGothic,"ヒラギノ角ゴ ProN W3","Hiragino Kaku Gothic ProN","メイリオ",Meiryo,sans-serif;
   font-size: 16px;
   color: #fff;
-  background-image: url("../img/moacoverright.png"), url("../img/sucoverleft.png");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 100% -15%, 0% -15%;
 }
 
 .resTable {
-  border: 3px solid #57249C;
-  border-radius: 5px;
+  display: block;
+  float: left;
+  font-size:12px;
+  margin: 0.5em;
+  border-collapse:collapse;
+  text-align: center;
+}
+
+.resTableH {
+  text-align:center;
+}
+
+.resTableL {
+  text-align:right;
+  padding-right:5px;
+}
+
+.resTableR {
+  text-align:left;
 }
 
 a, a:hover {
