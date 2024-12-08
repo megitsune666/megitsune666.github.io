@@ -61,7 +61,7 @@ img {
   background-color: ##443F94;
   z-index: 1;
   text-align: center;
-  border-bottom-color: #57249C;
+  border-bottom-color: #2e2999;
   border-bottom-width: 5px;
   border-bottom-style: solid;
 }
@@ -71,7 +71,7 @@ img {
   height: 100%;
   bottom: 50px;
   float: left;
-  border-left-color: #57249C;
+  border-left-color: #2e2999;
   border-left-width: 2px;
   border-left-style: solid;
 }
