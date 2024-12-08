@@ -39,8 +39,8 @@ a, a:hover {
 }
 
 #fldRight, #fldLeft {
-  width: 200px;
-  height: 200px;
+  width: 300px;
+  height: 250px;
   border: 1px solid #57249C;
   font-size: 16px;
 }
@@ -48,20 +48,20 @@ a, a:hover {
 #fldMiddleT, #fldMiddleB {
   text-align: center;
   width: 150px;
-  height: 100px;
+  height: 125px;
   padding:0px;
   border: 1px solid #57249C;
 }
 
 img {
-  height: 200px;
-  width: 200px;
+	height: 200px;
+	width: 200px;
 }
 
 #btn-rawtext {
 	cursor: pointer;
 	background-color: #443F94;
-  color: #fff;
+	color: #fff;
 	width: 150px;
 	padding: 2px;
 	border: 3px solid #57249C;
