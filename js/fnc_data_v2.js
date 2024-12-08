@@ -85,8 +85,8 @@ var ary_CharacterData = [
   [1, "メタ盛るフォーゼ！(Metamorphose!)",                   [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
   [1, "O・TA・KUラブリー伝説",                   [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
   [1, "GAMBLER",                                          [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
-  [1, "いとをかしMyType",               [0,0,0,0,1,0,0,0,0,0,1], "Sorter/BT.jpg"],
-  [1, "ボーナス⭐︎ぎるてぃたいむ (Bonus Guilty Time)",          [0,0,0,0,0,0,0,0,0,0], "Sorter/BT.jpg"]
+  [1, "いとをかしMyType",               [0,0,0,0,1,0,0,0,0,0,0], "Sorter/BT.jpg"],
+  [1, "ボーナス⭐︎ぎるてぃたいむ (Bonus Guilty Time)",          [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"]
 
 
   
