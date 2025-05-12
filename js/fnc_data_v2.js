@@ -67,6 +67,7 @@ var ary_CharacterData = [
 
   [1, "LOVE  Ranbu",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/LR.jpg"],
   [1, "GIRL'S TALK",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/GT.jpg"],
+  [1, "Oishii Survivor",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/oishii.jpg"],
   
   [1, "Babylon",                      [0,0,0,1,0,0,0,0,0,0], "Sorter/crashover.jpg"],
   [1, "Sweetskiller",                       [0,0,0,1,0,0,0,0,0,0], "Sorter/crashover.jpg"],    
