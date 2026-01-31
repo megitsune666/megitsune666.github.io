@@ -97,7 +97,7 @@ var ary_CharacterData = [
   [1, "Spicy Queen",                   [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"],
   [1, "トキメキAbout you",                   [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"],
   [1, "GIRL'S TALK",               [0,0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
-  [1, "はなびえんちゃん。のテーマ (Hanabiechan's Theme",          [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"]
+  [1, "はなびえんちゃん。のテーマ (Hanabiechan's Theme)",          [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"]
 
 
   
