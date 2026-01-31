@@ -32,6 +32,7 @@ var ary_TitleData = [
  "Reborn Superstar!",
  "Crash Over",
  "Bucchigiri Tokyo",
+ "HOT TOPIC",
  "SINGLES",
  "COVERS"
 ];
@@ -66,9 +67,7 @@ var ary_CharacterData = [
   [1, "Today’s Good Day & So Epic",       [0,0,1,0,0,0,0,0,0,0], "Sorter/RS.jpg"],
 
   [1, "LOVE  Ranbu",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/LR.jpg"],
-  [1, "GIRL'S TALK",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/GT.jpg"],
   [1, "Oishii Survivor",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/oishii.jpg"],
-  [1, "Spicy Queen",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/spicyqueen.jpg"],
   [1, "かるガルEveryday!!",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/karugaru.jpg"],
   
  
@@ -92,7 +91,13 @@ var ary_CharacterData = [
   [1, "O・TA・KUラブリー伝説",                   [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
   [1, "GAMBLER",                                          [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
   [1, "いとをかしMyType",               [0,0,0,0,1,0,0,0,0,0,0], "Sorter/BT.jpg"],
-  [1, "ボーナス⭐︎ぎるてぃたいむ (Bonus Guilty Time)",          [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"]
+  [1, "ボーナス⭐︎ぎるてぃたいむ (Bonus Guilty Time)",          [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
+
+  [1, "ICONIC",                   [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"],
+  [1, "Spicy Queen",                   [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"],
+  [1, "トキメキAbout you",                   [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"],
+  [1, "GIRL'S TALK",               [0,0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
+  [1, "はなびえんちゃん。のテーマ (Hanabiechan's Theme",          [0,0,0,0,0,1,0,0,0,0], "Sorter/HOTTOPIC.jpg"]
 
 
   
