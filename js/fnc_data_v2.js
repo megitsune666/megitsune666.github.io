@@ -66,9 +66,9 @@ var ary_CharacterData = [
   [1, "お先に失礼します。 (Pardon Me, I Have To Go Now)", [0,0,1,0,0,0,0,0,0,0], "Sorter/RS.jpg"],
   [1, "Today’s Good Day & So Epic",       [0,0,1,0,0,0,0,0,0,0], "Sorter/RS.jpg"],
 
-  [1, "LOVE  Ranbu",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/LR.jpg"],
-  [1, "Oishii Survivor",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/oishii.jpg"],
-  [1, "かるガルEveryday!!",                      [0,0,0,0,0,1,0,0,0,0], "Sorter/karugaru.jpg"],
+  [1, "LOVE  Ranbu",                      [0,0,0,0,0,0,1,0,0,0], "Sorter/LR.jpg"],
+  [1, "Oishii Survivor",                      [0,0,0,0,0,0,1,0,0,0], "Sorter/oishii.jpg"],
+  [1, "かるガルEveryday!!",                      [0,0,0,0,0,0,1,0,0,0], "Sorter/karugaru.jpg"],
   
  
   
@@ -83,8 +83,8 @@ var ary_CharacterData = [
   [1, "Zero",                           [1,0,0,0,0,0,0,0,0,0], "Sorter/cherry.jpg"],
   [1, "Drastic Nadeshiko",                    [1,0,0,0,0,0,0,0,0,0], "Sorter/cherry.jpg"],
   
-  [1, "Believer - cover",             [0,0,0,0,0,0,1,0,0,0], "Sorter/believer.jpg"],
-  [1, " 踊 / Ado(Band cover Metal ver.)",            [0,0,0,0,0,0,1,0,0,0], "Sorter/adocover.jpg"],
+  [1, "Believer - cover",             [0,0,0,0,0,0,0,1,0,0], "Sorter/believer.jpg"],
+  [1, " 踊 / Ado(Band cover Metal ver.)",            [0,0,0,0,0,0,0,1,0,0], "Sorter/adocover.jpg"],
 
   [1, "ぶっちぎり東京 (Bucchigiri Tokyo)",                   [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
   [1, "メタ盛るフォーゼ！(Metamorphose!)",                   [0,0,0,0,1,0,0,0,0,0], "Sorter/BT.jpg"],
